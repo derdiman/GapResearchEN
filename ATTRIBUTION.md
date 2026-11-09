@@ -13,7 +13,7 @@ Prepared on 9 November 2026 for the repository owner, derdiman (Mehmet Derdiman)
 
 Translated and reorganized the workflows into English with a shared entry point and conditional references. Consolidated duplicate onboarding and evidence-integrity rules. Resolved the three-initial-topics versus broad-topic-pool difference by separating initial orientation from developed alternatives. Retained broad disciplinary scope with specialized engineering checks. Replaced automatic preliminary abstracts with Research Design and Roadmap, following the owner's stated preference. Extended explicit design checks for qualitative inquiry without claiming specialist coverage of every discipline.
 
-This is a new integrated package, gapresearch-design 1.0.0; it does not change either original skill's name or version.
+This is a new integrated package, gapresearch-en 1.0.0; it does not change either original skill's name or version.
 
 ## License
 

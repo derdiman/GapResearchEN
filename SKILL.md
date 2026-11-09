@@ -1,5 +1,5 @@
 ---
-name: gapresearch-design
+name: gapresearch-en
 description: >-
   Guide students and researchers from an initial interest, uploaded papers, or an
   existing question to topic selection, traceable literature synthesis, defensible
@@ -12,7 +12,7 @@ metadata:
   language: "en"
 ---
 
-# GapResearch Design
+# GapResearchEN
 
 An English integration of GapResearch 1.1.0 and MetodİnşasıMüh 1.2.0.
 

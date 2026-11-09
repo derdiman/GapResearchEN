@@ -1,4 +1,4 @@
-# GapResearch Design
+# GapResearchEN
 
 **English integrated skill · Version 1.0.0**
 
@@ -18,7 +18,7 @@ The skill first establishes the intended deliverable, unless already stated. It 
 
 ## Use as a skill
 
-Place the complete `gapresearch-design` folder in the skill location supported by your AI environment, or upload it using that environment's custom-skill interface. Keep SKILL.md, references and templates together. Installation steps and persistence vary by platform; reading a GitHub link does not automatically install a skill.
+Place the complete `gapresearch-en` folder in the skill location supported by your AI environment, or upload it using that environment's custom-skill interface. Keep SKILL.md, references and templates together. Installation steps and persistence vary by platform; reading a GitHub link does not automatically install a skill.
 
 ## Use as a prompt
 
